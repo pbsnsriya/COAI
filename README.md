@@ -1,4 +1,4 @@
-Here’s a concise **README** for your COAI project:
+
 
 ---
 
@@ -50,4 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to adjust the installation steps based on your actual setup!
