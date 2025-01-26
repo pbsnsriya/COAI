@@ -1,52 +1,79 @@
+# COAI: Course Outcome AI
 
+Welcome to COAI! This guide will walk you through setting up and using our powerful AI-driven Course Outcome analysis tool. Follow these steps to get started.
+
+---
+
+## Installation & Setup
+
+### Step 1: Install Dependencies
+
+Make sure you have Python 3 installed on your system. Then, use the following command to install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 2: Download Tesseract OCR Framework
+
+Download and install the Tesseract OCR framework. Ensure it is installed in the Program Files directory on your C drive.
+
+- [Tesseract OCR Releases](https://github.com/tesseract-ocr/tesseract/releases)
+
+### Step 3: Install Ollama
+
+Download and install Ollama.exe for Windows from the official website:
+
+- [Ollama Official Website](https://ollama.com/)
+
+If you want to run Llama 3.3 (requires significant storage), you can download it. By default, we use Llama 2 with 7B parameters.
+
+### Step 4: Set Up and Run Llama
+
+After installing Ollama:
+
+1. Open the Run dialog (Win + R), type `cmd`, and press Enter.
+2. Run the following command for Llama 2:
+   ```bash
+   ollama run llama2
+   ```
+   If using Llama 3.3, run:
+   ```bash
+   ollama run llama3.3
+   ```
+
+### Step 5: Verify Setup
+
+After installation, you will be prompted to provide input prompts. If you reach this stage, your setup is 95% complete!
 
 ---
 
-# COAI: AI-Driven Course Outcome Analysis
+## Using COAI
 
-COAI is an AI-powered platform that analyzes course outcomes, identifies student learning gaps, and provides actionable insights to help educators improve teaching strategies and student performance. By leveraging advanced machine learning algorithms, COAI offers data-backed feedback to optimize educational outcomes.
+### Step 6: Prepare Python and Files
 
-## Features
-- **AI-Powered Analysis**: Utilizes machine learning to analyze course data efficiently.
-- **Learning Gap Detection**: Identifies areas where students need improvement.
-- **Actionable Insights**: Provides real-time feedback for better learning outcomes.
-- **User-Friendly Interface**: Designed for ease of use by both educators and students.
-  
-## Installation
+Ensure you have Python 3 installed. If not, download it from:
 
-To run COAI locally, follow these steps:
+- [Python Official Website](https://python.org/)
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/COAI.git
-    ```
+### Step 7: Set File Paths
 
-2. Navigate to the project directory:
-    ```bash
-    cd COAI
-    ```
+Update the code to include the file paths for:
 
-3. Install the necessary dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+- The test paper image
+- The CO data files
 
-4. Run the application:
-    ```bash
-    python app.py
-    ```
+### Step 8: Run the Code
 
-## Usage
-
-Once installed, you can use COAI to upload course data and begin analyzing student outcomes. The AI will identify learning gaps and provide insights to enhance teaching effectiveness.
-
-## Contributing
-
-We welcome contributions! Please fork the repository, create a new branch, and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Run the Python script, and COAI will process the input and provide detailed responses and insights.
 
 ---
+
+## Support
+
+If you face any issues during installation or usage, feel free to reach out to our support team.
+
+---
+
+
 
