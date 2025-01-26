@@ -4,10 +4,12 @@ Welcome to COAI! This guide will walk you through setting up and using our power
 
 ## Youtube Link
 you can view the model working here in the video, A demo instance.
+
 https://youtu.be/8D9Q4fgBRAw?si=v3pnAS2FIFR6tKJR
 
 ## Website link
 Responsive website representing our Ideology.
+
 https://pbsnsriya.github.io/COAI/
 
 ---
