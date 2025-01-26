@@ -2,6 +2,12 @@
 
 Welcome to COAI! This guide will walk you through setting up and using our powerful AI-driven Course Outcome analysis tool. Follow these steps to get started.
 
+## Youtube Link
+https://youtu.be/8D9Q4fgBRAw?si=v3pnAS2FIFR6tKJR
+
+## Website link
+https://pbsnsriya.github.io/COAI/
+
 ---
 
 ## Installation & Setup
