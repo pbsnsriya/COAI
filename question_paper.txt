@@ -1,0 +1,31 @@
+Code No: 20PH11003
+Gecthanjali College of Engineering and Technology, Hyderabad (Autonomous)
+1 B.Tech. [CSE/ CSE(CS)/ CSE(DS)/ CSE(IoT)/ CSE(AIML) IT] I Semester HI Mid-Term
+
+Examinations, April-2022
+
+APPLIED PHYSICS
+Time: 100 Min. Max. Marks: 15
+Note: Answer all questions. (@x5=15)
+1 a, Differentiate direct and indirect bandgap semiconductors. 3M _ CO3,BTLI
+b. Explain the variation of Fermi level with temperature and concentration of 2M C03, BTL2
+dopants in n-type semiconductor.
+OR
+2 Derive an expression for electron concentration in n-type semiconductor. 5M CO3,BTL2
+3 .a( With thehelp of suitable diagrams, explain the principle, constructionand 4M C04, BTL2
+working of a Nd-YAG laser.
+bi Mention any two applications of laser. IM C04,BTL2
+. OR
+4 a. Distinguish between the light propagation in step and graded-index 3M CO4,BTL2
+optical fibers.
+b. The numerical aperture of an optical fiber is 0.42. If the refractive index 2M C04, BTL2
+change is 0.04, calculate the refractive indices of core and cladding of the
+material.
+5 Explain the concept of internal field in solids and obtain an expression 5M COS, BTL2
+for it.
+5 OR
+a Classify the magnetic materials into Dia, Para and Ferro. 4M_ COS, BTL2
+b. The magnetic field intensity in a piece of oxide is 10° amp/m. If the IM COS, BTL2
+
+susceptibility of the materials is 1.510%, calculate the magnetization of
+the material.

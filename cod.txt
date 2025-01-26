@@ -1,0 +1,5 @@
+ Student  CO3  CO4  CO5
+     Ava    1    1    1
+    Liam    1    2    0
+   TOTAL    2    3    1
+EXPECTED    4    4    4
